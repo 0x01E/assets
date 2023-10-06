@@ -19077,18 +19077,11 @@
 			s = n.n(i),
 			c = n("/MKj"),
 			l = n("Y2fQ"),
-			gc = "https://netsp.org";
+			gc = "https://hmkj3.com";
 		class u extends a.a.Component {
 			constructor() {
 				super(...arguments), this.state = {
 					nav: [ {
-                        title: Object(l["formatMessage"])({id: "\u4e3b\u9875"}),
-                        type: "item",
-                        href: gc,
-                        icon: a.a.createElement("i", {
-                            className: "nav-main-link-icon fas fa-shapes"
-                        })
-                    }, {
                         title: Object(l["formatMessage"])({
                             id: "\u63a7\u5236\u53f0"
                         }),
